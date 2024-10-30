@@ -21,7 +21,7 @@ TUST-ACM战队成立于2024年5月。初始成员由贾舒奥维、赵子涵、�
 | 宋静姝 | Row 2 | Row 3 | Row 4 |
 | 王孙上 | Row 2 | Row 3 | Row 4 |
 | 王炫懿 | Row 2 | Row 3 | Row 4 |
-| 吴迪 | Row 2 | Row 3 | Row 4 |
+| 吴迪 | AoA237 | 大一 | 计科中日 |
 | 吴文天 | Row 2 | Row 3 | Row 4 |
 | 吴宇轩 | Row 2 | Row 3 | Row 4 |
 | 杨欣茹 | Row 2 | Row 3 | Row 4 |
